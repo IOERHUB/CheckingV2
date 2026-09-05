@@ -1,2 +1,3 @@
-print("yoooo this script is not working")
-game.Players.LocalPlayer:Kick("Version Mismatch, Please Use A New Script Or Wait For Updated")
+-- Craeted By Exterminate0
+-- More Updated Is Coming Soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IOERHUB/R4jej3fe-V4/refs/heads/main/Zeutronisbest.lua"))()

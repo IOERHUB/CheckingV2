@@ -1,3 +1,13 @@
--- Craeted By Exterminate0
--- More Updated Is Coming Soon
+-- Created By Exterminate0 & KaiiNeverLose
+-- More Updated, Bugs Dll Is Coming Soon
+-- Version: The latest version
+
+-- Test Executor works or not
+print("Start......")
+task.wait(0.2)
+
+-- Function
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IOERHUB/R4jej3fe-V4/refs/heads/main/Zeutronisbest.lua"))()
+
+task.wait(0.2)
+print("End......")

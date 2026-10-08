@@ -9,5 +9,6 @@ task.wait(0.2)
 -- Function
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IOERHUB/R4jej3fe-V4/refs/heads/main/Zeutronisbest.lua"))()
 
+-- Indicates that the Script has been executed
 task.wait(0.2)
 print("End......")
